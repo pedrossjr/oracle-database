@@ -58,11 +58,20 @@ Categoria fundamental para DBAs, arquitetos de dados e profissionais de sustenta
 
 ## 3. Infraestrutura em nuvem — Oracle Cloud Infrastructure (OCI)
 
-[Oracle Cloud Infrastructure Security Architecture](https://github.com/pedrossjr/oracle-database/blob/main/glossario//img/aJhMS6_ukOJHpAM.jpg)
+<div align="center">
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario//img/aJhMS6_ukOJHpAM.jpg"><br />
+Oracle Cloud Infrastructure Security Architecture
+</div>
 
-[管理界面](https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/lUmnQIiUiC62353.jpg)
+<div align="center">
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/lUmnQIiUiC62353.jpg"><br />
+管理界面
+</div>
 
-[Oracle Cloud Infrastructure 技術概要 - Speaker Deck](https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/CZCiM2ZcGk2S5cR.jpg)
+<div align="center">
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/CZCiM2ZcGk2S5cR.jpg"><br />
+Oracle Cloud Infrastructure 技術概要 - Speaker Deck
+</div>
 
 A Oracle Cloud Infrastructure (OCI) é a plataforma de nuvem da Oracle para executar aplicações, bancos de dados, redes, armazenamento e cargas de trabalho de IA.&#x20;
 
@@ -117,19 +126,28 @@ A Oracle Cloud Infrastructure (OCI) é a plataforma de nuvem da Oracle para exec
 
 ## 5. Hardware e sistemas projetados
 
-[Exadata Platform](https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Ik_AdEvVZm6T-Os.jpg)
+<div align="center">
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Ik_AdEvVZm6T-Os.jpg"><br />
+Exadata Platform
+</div>
 
 Oracle Exadata
 
 Plataforma integrada de servidores, armazenamento, rede e software, otimizada para cargas de trabalho Oracle Database. Pode ser implantada localmente ou consumida em modalidades de nuvem.
 
-[Oda-X9-2ha Small Database Machine Server - Rack Server and Computer Parts price](https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/sYLpikR_8gOk7ng.jpg)
+<div align="center">
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/sYLpikR_8gOk7ng.jpg"><br />
+Oda-X9-2ha Small Database Machine Server - Rack Server and Computer Parts price
+</div>
 
 Oracle Database Appliance (ODA)
 
 Sistema integrado que simplifica a implantação e a operação de determinados ambientes Oracle Database.
 
-[1.2 Components](https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Jl_BBL8Is31X17x.jpg)
+<div align="center">
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Jl_BBL8Is31X17x.jpg"><br />
+1.2 Components
+</div>
 
 Oracle Private Cloud Appliance
 

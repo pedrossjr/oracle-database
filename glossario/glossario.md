@@ -143,7 +143,7 @@ Exadata Platform
 Oda-X9-2ha Small Database Machine Server - Rack Server and Computer Parts price
 <br /><br />
 </div>
-<br /><br />
+<br />
 
 <div align="center">
 <p>Oracle Private Cloud Appliance é uma infraestrutura integrada voltada à execução de aplicações empresariais em nuvem privada.</p>
@@ -151,7 +151,7 @@ Oda-X9-2ha Small Database Machine Server - Rack Server and Computer Parts price
 1.2 Components
 <br /><br />
 </div>
-<br /><br />
+<br />
 
 | Nome                            | Descrição                                                                                                                                |
 | ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |

@@ -56,22 +56,25 @@ Categoria fundamental para DBAs, arquitetos de dados e profissionais de sustenta
 | RPO (Recovery Point Objective) | Perda máxima de dados, medida em tempo, tolerada pela organização.                                                      |
 | RTO (Recovery Time Objective)  | Tempo máximo desejado para restaurar um serviço após uma interrupção.                                                   |
 
-## 3. Infraestrutura em nuvem — Oracle Cloud Infrastructure (OCI)
+## 3. Infraestrutura em nuvem - Oracle Cloud Infrastructure (OCI)
 
 <div align="center">
-<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario//img/aJhMS6_ukOJHpAM.jpg"><br />
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario//img/aJhMS6_ukOJHpAM.jpg" height="400" width="550"><br />
 Oracle Cloud Infrastructure Security Architecture
 </div>
+<br /><br />
 
 <div align="center">
-<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/lUmnQIiUiC62353.jpg"><br />
-管理界面
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/lUmnQIiUiC62353.jpg" height="400" width="550"><br />
+Oracle Cloud
 </div>
+<br /><br />
 
 <div align="center">
-<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/CZCiM2ZcGk2S5cR.jpg"><br />
-Oracle Cloud Infrastructure 技術概要 - Speaker Deck
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/CZCiM2ZcGk2S5cR.jpg" height="400" width="550"><br />
+Oracle Cloud Infrastructure - Speaker Deck
 </div>
+<br /><br />
 
 A Oracle Cloud Infrastructure (OCI) é a plataforma de nuvem da Oracle para executar aplicações, bancos de dados, redes, armazenamento e cargas de trabalho de IA.&#x20;
 
@@ -127,27 +130,30 @@ A Oracle Cloud Infrastructure (OCI) é a plataforma de nuvem da Oracle para exec
 ## 5. Hardware e sistemas projetados
 
 <div align="center">
-<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Ik_AdEvVZm6T-Os.jpg"><br />
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Ik_AdEvVZm6T-Os.jpg" height="400" width="400"><br />
 Exadata Platform
 </div>
+<br /><br />
 
 Oracle Exadata
 
 Plataforma integrada de servidores, armazenamento, rede e software, otimizada para cargas de trabalho Oracle Database. Pode ser implantada localmente ou consumida em modalidades de nuvem.
 
 <div align="center">
-<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/sYLpikR_8gOk7ng.jpg"><br />
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/sYLpikR_8gOk7ng.jpg"  height="400" width="400"><br />
 Oda-X9-2ha Small Database Machine Server - Rack Server and Computer Parts price
 </div>
+<br /><br />
 
 Oracle Database Appliance (ODA)
 
 Sistema integrado que simplifica a implantação e a operação de determinados ambientes Oracle Database.
 
 <div align="center">
-<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Jl_BBL8Is31X17x.jpg"><br />
+<img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Jl_BBL8Is31X17x.jpg" height="400" width="280"><br />
 1.2 Components
 </div>
+<br /><br />
 
 Oracle Private Cloud Appliance
 

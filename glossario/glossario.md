@@ -130,8 +130,7 @@ A Oracle Cloud Infrastructure (OCI) é a plataforma de nuvem da Oracle para exec
 ## 5. Hardware e sistemas projetados
 
 <div align="center">
-Oracle Exadata é uma plataforma integrada de servidores, armazenamento, rede e software, otimizada para cargas de trabalho Oracle Database. Pode ser implantada localmente ou consumida em modalidades de nuvem.
-<br /><br />
+<p>Oracle Exadata é uma plataforma integrada de servidores, armazenamento, rede e software, otimizada para cargas de trabalho Oracle Database. Pode ser implantada localmente ou consumida em modalidades de nuvem.</p>
 <img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Ik_AdEvVZm6T-Os.jpg" height="400" width="400"><br />
 Exadata Platform
 <br /><br />
@@ -139,8 +138,7 @@ Exadata Platform
 <br />
 
 <div align="center">
-Oracle Database Appliance (ODA) é um sistema integrado que simplifica a implantação e a operação de determinados ambientes Oracle Database.
-<br /><br />
+<p>Oracle Database Appliance (ODA) é um sistema integrado que simplifica a implantação e a operação de determinados ambientes Oracle Database.</p>
 <img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/sYLpikR_8gOk7ng.jpg"  height="400" width="400"><br />
 Oda-X9-2ha Small Database Machine Server - Rack Server and Computer Parts price
 <br /><br />
@@ -148,8 +146,7 @@ Oda-X9-2ha Small Database Machine Server - Rack Server and Computer Parts price
 <br /><br />
 
 <div align="center">
-Oracle Private Cloud Appliance é uma infraestrutura integrada voltada à execução de aplicações empresariais em nuvem privada.
-<br /><br />
+<p>Oracle Private Cloud Appliance é uma infraestrutura integrada voltada à execução de aplicações empresariais em nuvem privada.</p>
 <img src="https://github.com/pedrossjr/oracle-database/blob/main/glossario/img/Jl_BBL8Is31X17x.jpg" height="400" width="280"><br />
 1.2 Components
 <br /><br />

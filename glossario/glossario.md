@@ -4,14 +4,6 @@ Este glossário foi organizado por categorias para servir como material de consu
 
 O portfólio da Oracle abrange bancos de dados, sistemas operacionais, middleware, ferramentas de desenvolvimento, infraestrutura em nuvem, aplicações empresariais, hardware especializado e serviços profissionais.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://www.oracle.com\&sz=32)
-
-Oracle Brasil
-
-+1
-
-
-
 Como utilizar: cada item apresenta o nome oficial ou a sigla, seguido de uma descrição objetiva e, quando útil, sua finalidade prática no ambiente corporativo.
 
 ## 1. Bancos de dados e tecnologias de dados
@@ -45,12 +37,6 @@ Categoria fundamental para DBAs, arquitetos de dados e profissionais de sustenta
 | Oracle SQLcl                                 | Interface de linha de comando para trabalhar com bancos Oracle por meio de SQL e scripts.                                                       |
 | Oracle REST Data Services (ORDS)             | Camada que expõe dados e funcionalidades Oracle por serviços REST e dá suporte a aplicações como APEX.                                          |
 
-[image](https://www.google.com/s2/favicons?domain=https://academy.oracle.com\&sz=32)
-
-Oracle Academy
-
-+1
-
 ## 2. Alta disponibilidade, backup e recuperação de desastres
 
 | Nome                           | Descrição                                                                                                               |
@@ -72,23 +58,13 @@ Oracle Academy
 
 ## 3. Infraestrutura em nuvem — Oracle Cloud Infrastructure (OCI)
 
-[Oracle Cloud Infrastructure Security Architecture](https://images.openai.com/static-rsc-4/NoqVXsvP7vhGj8vHDwLh0v2VxS2YOYRosrX53PR7vKnXhDJs8zc0mKlXeTIhy70fyg241loN6PkCiTGuyxKwyjLMRxvIA7w4ZCJPcmA4GUfOq-VNHFZETYVKbcM8FVCHwR7F2cvEuPLTuheb1Bz56flQlxKTcMOFPQXVms4SPM0?purpose=inline)
+[Oracle Cloud Infrastructure Security Architecture](/img/aJhMS6_ukOJHpAM.jpg)
 
-[管理界面](https://images.openai.com/static-rsc-4/esdWa90WjIfDEpxYHs0aaCWWhG-QAc61U1UrY9zWComme2g6MT5dx9r9_aaw_uzuVQ1D6PuXkjdMvJYqZoeXq7mi9YNimyaXtABQQv_Z6_pgB21W_8pYuEJmu-Zsb1QxQuxj_Fe9QUzgQvTGUizlxSA-xf4aREzgyLOy5Z8rWnA?purpose=inline)
+[管理界面](img/lUmnQIiUiC62353.jpg)
 
-[Oracle Cloud Infrastructure 技術概要 - Speaker Deck](https://images.openai.com/static-rsc-4/KKsmfOxNS1qJPgpM-l1uPBov0BNaSvAeYO2nqEw0Z6xUOPcUySc7zYONG_dCTXvu5NWpPSNantqvw6SQWEh_gyfIU4opcM4Hg9g-OJ-uyz9juKcRw5Z4ccboD41sgSnlfVu6sgJO52JTwuzCaVrkuwznwXsCqgi12C-ax7YH3Co?purpose=inline)
-
-8
+[Oracle Cloud Infrastructure 技術概要 - Speaker Deck](img/CZCiM2ZcGk2S5cR.jpg)
 
 A Oracle Cloud Infrastructure (OCI) é a plataforma de nuvem da Oracle para executar aplicações, bancos de dados, redes, armazenamento e cargas de trabalho de IA.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://www.oracle.com\&sz=32)
-
-Oracle Brasil
-
-+1
-
-
 
 | Nome                                      | Descrição                                                                                                                   |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -139,27 +115,21 @@ Oracle Brasil
 | Oracle Private Cloud Appliance      | Plataforma integrada de infraestrutura para executar cargas de trabalho em ambiente de nuvem privada.                        |
 | Oracle Cloud\@Customer              | Família de ofertas que disponibiliza determinados serviços Oracle em infraestrutura instalada no ambiente do cliente.        |
 
-[image](https://www.google.com/s2/favicons?domain=https://apexapps.oracle.com\&sz=32)
-
-Oracle
-
-+2
-
 ## 5. Hardware e sistemas projetados
 
-[Exadata Platform](https://images.openai.com/static-rsc-4/ZD8CctkAcGTUjuF406p5NOJTp4XMjy6aTuyYuH1jZfPrjhDrer9-6b_fHQkhuHtES0yb2SmzDgGuYmW-p7Be_HxozD-WonAXCB78OFg-J3wOTg7QYyRtQtHkGbOwItUvnIdBG-T_-mKyaqdcQm6w8nDthOYiH9fa88Ownn5r0wc?purpose=inline)
+[Exadata Platform](img/Ik_AdEvVZm6T-Os.jpg)
 
 Oracle Exadata
 
 Plataforma integrada de servidores, armazenamento, rede e software, otimizada para cargas de trabalho Oracle Database. Pode ser implantada localmente ou consumida em modalidades de nuvem.
 
-[Oda-X9-2ha Small Database Machine Server - Rack Server and Computer Parts price](https://images.openai.com/static-rsc-4/2PP0MQyvOlWk4rM7zayiwU-eWoJtv44Bm52t8xEjWVCnD4-8C2p3dLxibkPeAlDoIad9kzQgxP5nw0hWmRwqw1zFjzWi7x7Nc4iCanMOqosP3TQi2mKVMd7vHr4dMJ4tGxP1zh337kJ5fGgg3Z6MuJ8u_3WSl7lFPkE8Axj7uuQ?purpose=inline)
+[Oda-X9-2ha Small Database Machine Server - Rack Server and Computer Parts price](img/sYLpikR_8gOk7ng.jpg)
 
 Oracle Database Appliance (ODA)
 
 Sistema integrado que simplifica a implantação e a operação de determinados ambientes Oracle Database.
 
-[1.2 Components](https://images.openai.com/static-rsc-4/8SzYSURAtejQ8JHOhQ4_TceJa_zxov4_I3aTDSW5Ig7ZPuww6BWalZta8eob3yFIsLVHB_bSdRUwUOsjG5-093bEaOSi3JKWw2vv_83Qcbpj3VwueQJJEPS4wX66E0CC_LXyGaEakzAR2CZUJynpTSTOI49qCQJBNIUg5ZOYPzk?purpose=inline)
+[1.2 Components](img/Jl_BBL8Is31X17x.jpg)
 
 Oracle Private Cloud Appliance
 
@@ -172,23 +142,9 @@ Infraestrutura integrada voltada à execução de aplicações empresariais em n
 | Oracle SuperCluster             | Sistema integrado que combina recursos de computação, armazenamento e software Oracle para determinadas cargas de trabalho empresariais. |
 | Oracle ZFS Storage Appliance    | Sistema de armazenamento empresarial para cargas de trabalho e necessidades de proteção de dados compatíveis.                            |
 
-[image](https://www.google.com/s2/favicons?domain=https://www.oracle.com\&sz=32)
-
-Oracle Brasil
-
-+1
-
 ## 6. Middleware, servidores de aplicação e integração
 
 Middleware é a camada de software que conecta aplicações, serviços, sistemas e fontes de dados. A família Oracle Fusion Middleware inclui tecnologias de desenvolvimento, integração, segurança e execução de aplicações.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://docs.oracle.com\&sz=32)
-
-Fusion Middleware
-
-+1
-
-
 
 | Nome                                         | Descrição                                                                                                             |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -228,23 +184,9 @@ Fusion Middleware
 | Oracle Developer Tools for Visual Studio       | Ferramentas de desenvolvimento e integração para trabalhar com tecnologias Oracle no Visual Studio, conforme a versão.                    |
 | Oracle Cloud Infrastructure DevOps             | Serviços para automatizar processos de build, entrega e implantação na OCI.                                                               |
 
-[image](https://www.google.com/s2/favicons?domain=https://docs.oracle.com\&sz=32)
-
-Fusion Middleware
-
-+2
-
 ## 8. Aplicações empresariais e sistemas de gestão
 
 As aplicações empresariais Oracle atendem a áreas como finanças, recursos humanos, compras, vendas, manufatura e logística. A suíte Fusion Cloud reúne soluções integradas, enquanto outros produtos atendem empresas que mantêm sistemas tradicionais instalados localmente.&#x20;
-
-[image](https://www.google.com/s2/favicons?domain=https://docs.oracle.com\&sz=32)
-
-Fusion Cloud Applications
-
-+1
-
-
 
 | Nome                                           | Descrição                                                                                                            |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -281,12 +223,6 @@ Fusion Cloud Applications
 | Oracle AI Agents                   | Agentes de IA incorporados a produtos e fluxos de trabalho compatíveis para executar tarefas e apoiar processos.               |
 | Oracle Digital Assistant           | Plataforma para construir assistentes conversacionais e experiências baseadas em linguagem natural.                            |
 | Oracle Essbase                     | Plataforma analítica multidimensional usada em planejamento, modelagem e análise empresarial.                                  |
-
-[image](https://www.google.com/s2/favicons?domain=https://academy.oracle.com\&sz=32)
-
-Oracle Academy
-
-+2
 
 ## 10. Segurança, identidade e controle de acesso
 
@@ -328,14 +264,6 @@ Oracle Academy
 
 Além de software e infraestrutura, a Oracle oferece serviços de consultoria, suporte técnico, treinamento e orientação para adoção das soluções.&#x20;
 
-[image](https://www.google.com/s2/favicons?domain=https://www.oracle.com\&sz=32)
-
-Oracle Brasil
-
-+1
-
-
-
 | Nome                                     | Descrição                                                                                                                                    |
 | ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Oracle Consulting                        | Serviços de consultoria para implantação, transformação tecnológica, integração e otimização de soluções.                                    |
@@ -357,17 +285,17 @@ Estes termos são importantes para compreender como as soluções Oracle são ad
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | On-premises                        | Software executado na infraestrutura administrada pelo próprio cliente.                                                       |
 | Cloud Computing                    | Modelo de utilização de recursos computacionais fornecidos como serviços pela nuvem.                                          |
-| SaaS — Software as a Service       | Software consumido como serviço, normalmente por assinatura, com a infraestrutura e a aplicação gerenciadas pelo fornecedor.  |
-| PaaS — Platform as a Service       | Plataforma gerenciada para desenvolver, executar ou integrar aplicações sem administrar toda a infraestrutura subjacente.     |
-| IaaS — Infrastructure as a Service | Recursos de computação, rede e armazenamento disponibilizados como serviços.                                                  |
-| BYOL — Bring Your Own License      | Modelo no qual o cliente utiliza licenças próprias em ambientes elegíveis, respeitando as regras de licenciamento aplicáveis. |
+| SaaS - Software as a Service       | Software consumido como serviço, normalmente por assinatura, com a infraestrutura e a aplicação gerenciadas pelo fornecedor.  |
+| PaaS - Platform as a Service       | Plataforma gerenciada para desenvolver, executar ou integrar aplicações sem administrar toda a infraestrutura subjacente.     |
+| IaaS - Infrastructure as a Service | Recursos de computação, rede e armazenamento disponibilizados como serviços.                                                  |
+| BYOL - Bring Your Own License      | Modelo no qual o cliente utiliza licenças próprias em ambientes elegíveis, respeitando as regras de licenciamento aplicáveis. |
 | License Metric                     | Unidade de medição utilizada para determinar o licenciamento de um produto, conforme o contrato.                              |
 | Named User Plus (NUP)              | Métrica de licenciamento baseada em usuários nomeados e, conforme as regras aplicáveis, dispositivos que acessam o software.  |
 | Processor License                  | Métrica de licenciamento baseada em processadores, calculada segundo as regras contratuais da Oracle.                         |
 | Support Renewal                    | Renovação do suporte e da manutenção conforme o contrato e a política aplicáveis.                                             |
 | Subscription                       | Contrato de acesso a um produto ou serviço durante um período determinado.                                                    |
 | Universal Credits                  | Modelo de créditos utilizado em determinadas ofertas de serviços OCI elegíveis.                                               |
-| SLA — Service Level Agreement      | Compromisso contratual sobre níveis de serviço, disponibilidade ou outros parâmetros definidos.                               |
+| SLA - Service Level Agreement      | Compromisso contratual sobre níveis de serviço, disponibilidade ou outros parâmetros definidos.                               |
 
 Atenção: o licenciamento Oracle depende do produto, da versão, da edição, da infraestrutura e dos termos contratuais. Não é seguro concluir que uma instalação está licenciada apenas porque funciona tecnicamente.
 
@@ -375,27 +303,27 @@ Atenção: o licenciamento Oracle depende do produto, da versão, da edição, d
 
 Considerando o objetivo de desenvolver conhecimento em administração Oracle e preparar-se para as certificações 1Z0-082 e 1Z0-083, esta é uma sequência prática para organizar os conceitos do glossário.
 
-Etapa 1 — Fundamentos do Oracle Database
+Etapa 1 - Fundamentos do Oracle Database
 
 SQL, PL/SQL, instância, SGA, processos, arquivos de controle, redo logs, tablespaces e usuários.
 
-Etapa 2 — Administração e segurança
+Etapa 2 - Administração e segurança
 
 Inicialização, parâmetros, privilégios, roles, auditoria, gerenciamento de espaço e manutenção.
 
-Etapa 3 — Backup e recuperação
+Etapa 3 - Backup e recuperação
 
 RMAN, archivelogs, recuperação completa e incompleta, Flashback e estratégias de contingência.
 
-Etapa 4 — Desempenho e diagnóstico
+Etapa 4 - Desempenho e diagnóstico
 
 AWR, ADDM, planos de execução, estatísticas, índices, SQL Tuning e análise de gargalos.
 
-Etapa 5 — Alta disponibilidade
+Etapa 5 - Alta disponibilidade
 
 Data Guard, RAC, ASM, arquitetura de contingência, failover e recuperação de desastres.
 
-Etapa 6 — Oracle na nuvem
+Etapa 6 - Oracle na nuvem
 
 OCI, redes, Compute, armazenamento, IAM, Autonomous Database e serviços de banco em nuvem.
 
@@ -403,7 +331,7 @@ A ordem acima é uma sugestão didática, não uma reprodução literal do progr
 
 ## Referências oficiais para consulta
 
-- [Catálogo de produtos Oracle A–Z](https://www.oracle.com/br/products/oracle-a-z.html) — visão geral de produtos e serviços.
+- [Catálogo de produtos Oracle A–Z](https://www.oracle.com/br/products/oracle-a-z.html) - visão geral de produtos e serviços.
 - [Documentação Oracle Database](https://docs.oracle.com/en/database/) — documentação técnica dos bancos de dados.
 - [Documentação Oracle Fusion Middleware](https://docs.oracle.com/en/middleware/) — servidores de aplicação e integração.
 - [Oracle Architecture Center](https://docs.oracle.com/solutions/) — arquiteturas de referência, soluções e exemplos técnicos.
